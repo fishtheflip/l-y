@@ -6,9 +6,9 @@ npm run build
 
 cd dist 
 
-gitinit 
+git init 
 git add -A 
 git comit -m 'new'
-git push -f https://github.com/fishtheflip/l-y.git/ master:ph-pages
+git push -f https://github.com/fishtheflip/l-y.git/ master:gh-pages
 
 cd -
